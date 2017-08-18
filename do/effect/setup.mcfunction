@@ -1,0 +1,1 @@
+tellraw @s "  Effect Functions"
