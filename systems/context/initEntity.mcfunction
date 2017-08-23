@@ -1,0 +1,11 @@
+scoreboard players add @s[type=player] sneakRaw 0
+scoreboard players add @s[type=player] walkRaw 0
+scoreboard players add @s[type=player] crouchRaw 0
+scoreboard players add @s[type=player] sprintRaw 0
+scoreboard players add @s groundRaw 0
+scoreboard players add @s airRaw 0
+scoreboard players add @s[type=player] fallRaw 0
+scoreboard players add @s[type=player] jumpRaw 0
+scoreboard players add @s[type=player] attackHitRaw 0
+scoreboard players add @s hurtRaw 0
+scoreboard players add @s[type=player] rcdRaw 0

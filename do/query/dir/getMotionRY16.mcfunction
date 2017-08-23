@@ -1,0 +1,17 @@
+scoreboard players set @s[rym=169,ry=180] motionRY 180
+scoreboard players set @s[rym=-180,ry=-169] motionRY 180
+scoreboard players set @s[rym=-169,ry=-146] motionRY -158
+scoreboard players set @s[rym=-146,ry=-124] motionRY -135
+scoreboard players set @s[rym=-124,ry=-101] motionRY -113
+scoreboard players set @s[rym=-101,ry=-79] motionRY -90
+scoreboard players set @s[rym=-79,ry=-56] motionRY -68
+scoreboard players set @s[rym=-56,ry=-34] motionRY -45
+scoreboard players set @s[rym=-34,ry=-11] motionRY -23
+scoreboard players set @s[rym=-11,ry=11] motionRY 0
+scoreboard players set @s[rym=11,ry=34] motionRY 22
+scoreboard players set @s[rym=34,ry=56] motionRY 45
+scoreboard players set @s[rym=56,ry=79] motionRY 67
+scoreboard players set @s[rym=79,ry=101] motionRY 90
+scoreboard players set @s[rym=101,ry=124] motionRY 113
+scoreboard players set @s[rym=124,ry=146] motionRY 135
+scoreboard players set @s[rym=146,ry=169] motionRY 157

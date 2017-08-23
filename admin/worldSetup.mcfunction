@@ -1,11 +1,14 @@
-gamerule doDaylightCycle false
-gamerule doWeatherCycle false
-gamerule doFireTick false
-gamerule doMobSpawning false
-gamerule doTileDrops false
-gamerule mobGriefing false
+# Import all setup functions here
 
-gamerule doMobLoot false
-gamerule doEntityDrops false
+tellraw @s ""
+tellraw @s "==================="
+tellraw @s "SETTING UP GAME..."
+tellraw @s "==================="
 
-gamerule logAdminCommands false
+function do:setup
+function systems:setup
+
+tellraw @s "==================="
+tellraw @s "GAME SETUP COMPLETE"
+tellraw @s "==================="
+tellraw @s ""
