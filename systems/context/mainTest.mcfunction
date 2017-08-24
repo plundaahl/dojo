@@ -10,3 +10,4 @@ execute @a[score_jumpCharge_min=1,score_jumpCharge=1] ~ ~ ~ tell @p @p is jumpin
 execute @a[score_attackHitRaw_min=1] ~ ~ ~ tell @p @p attacked
 execute @a[score_hurtRaw_min=1] ~ ~ ~ tell @p @p was hurt
 execute @a[score_rcdCharge_min=1,score_rcdCharge=1] ~ ~ ~ tell @p @p right clicked
+execute @a[score_rcdCharge_min=1,score_rcdLagged=0] ~ ~ ~ tell @p @p released right click

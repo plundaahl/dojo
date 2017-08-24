@@ -14,4 +14,3 @@ scoreboard players operation @a[score_rcdRaw_min=1] rcdLagged = GLOBAL inputLagW
 # less frequently in Minecraft's code.
 scoreboard players add @a[score_rcdRaw_min=1] rcdLagged 1
 scoreboard players add @a[score_rcdLagged_min=1] rcdCharge 1
-scoreboard players set @a[score_rcdLagged=0] rcdCharge 0

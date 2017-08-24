@@ -7,6 +7,7 @@ tellraw @s "==================="
 
 function do:setup
 function systems:setup
+function game:setup
 
 tellraw @s "==================="
 tellraw @s "GAME SETUP COMPLETE"

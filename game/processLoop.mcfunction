@@ -6,6 +6,7 @@
 # This file is being used as a central script for programming game entities.
 
 # Run the main entity file
+function do:variables/clear if @s[tag=makeDecision]
 function entity:main
 
 # Remove any tags leftover from processing.

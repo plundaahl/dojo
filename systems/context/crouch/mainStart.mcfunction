@@ -10,4 +10,3 @@ scoreboard players remove @a[score_crouchLagged_min=1] crouchLagged 1
 scoreboard players operation @a[score_crouchRaw_min=1] crouchLagged = GLOBAL inputLagWindow
 
 scoreboard players add @a[score_crouchLagged_min=1,score_crouchRaw_min=1] crouchCharge 1
-scoreboard players set @a[score_crouchLagged=0] crouchCharge 0

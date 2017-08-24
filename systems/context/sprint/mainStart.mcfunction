@@ -10,4 +10,4 @@ scoreboard players remove @a[score_sprintLagged_min=1] sprintLagged 1
 scoreboard players operation @a[score_sprintRaw_min=1] sprintLagged = GLOBAL inputLagWindow
 
 scoreboard players add @a[score_sprintLagged_min=1,score_sprintRaw_min=1] sprintCharge 1
-scoreboard players set @a[score_sprintLagged=0] sprintCharge 0
+

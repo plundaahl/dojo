@@ -1,0 +1,9 @@
+scoreboard players set @s[rxm=-90,rx=-79] motionRX -90
+scoreboard players set @s[rxm=-79,rx=-56] motionRX -67
+scoreboard players set @s[rxm=-56,rx=-34] motionRX -45
+scoreboard players set @s[rxm=-34,rx=-11] motionRX -22
+scoreboard players set @s[rxm=-11,rx=11] motionRX 0
+scoreboard players set @s[rxm=11,rx=34] motionRX 23
+scoreboard players set @s[rxm=34,rx=56] motionRX 45
+scoreboard players set @s[rxm=56,rx=79] motionRX 68
+scoreboard players set @s[rxm=79,rx=90] motionRX 90

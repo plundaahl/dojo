@@ -3,4 +3,5 @@
 # players sneaking. Note that this is the cleanup function, and must be called
 # at the end of the main loop in order for sneakStart to work properly.
 
+scoreboard players set @a[score_sneakLagged=0] sneakCharge 0
 scoreboard players set @a[score_sneakRaw_min=1] sneakRaw 0

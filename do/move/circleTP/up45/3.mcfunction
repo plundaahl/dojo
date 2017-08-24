@@ -1,0 +1,17 @@
+tp @s[score_motionRY_min=169,score_motionRY=180] ~0 ~2.1 ~-2.1
+tp @s[score_motionRY_min=-180,score_motionRY=-169] ~0 ~2.1 ~-2.1
+tp @s[score_motionRY_min=-169,score_motionRY=-146] ~0.8 ~2.1 ~-1.9
+tp @s[score_motionRY_min=-146,score_motionRY=-124] ~1.5 ~2.1 ~-1.5
+tp @s[score_motionRY_min=-124,score_motionRY=-101] ~1.9 ~2.1 ~-0.8
+tp @s[score_motionRY_min=-101,score_motionRY=-79] ~2.1 ~2.1 ~0
+tp @s[score_motionRY_min=-79,score_motionRY=-56] ~1.9 ~2.1 ~0.8
+tp @s[score_motionRY_min=-56,score_motionRY=-34] ~1.5 ~2.1 ~1.5
+tp @s[score_motionRY_min=-34,score_motionRY=-11] ~0.8 ~2.1 ~1.9
+tp @s[score_motionRY_min=-11,score_motionRY=11] ~0 ~2.1 ~2.1
+tp @s[score_motionRY_min=11,score_motionRY=34] ~-0.8 ~2.1 ~1.9
+tp @s[score_motionRY_min=34,score_motionRY=56] ~-1.5 ~2.1 ~1.5
+tp @s[score_motionRY_min=56,score_motionRY=79] ~-1.9 ~2.1 ~0.8
+tp @s[score_motionRY_min=79,score_motionRY=101] ~-2.1 ~2.1 ~0
+tp @s[score_motionRY_min=101,score_motionRY=124] ~-1.9 ~2.1 ~-0.8
+tp @s[score_motionRY_min=124,score_motionRY=146] ~-1.5 ~2.1 ~-1.5
+tp @s[score_motionRY_min=146,score_motionRY=169] ~-0.8 ~2.1 ~-1.9

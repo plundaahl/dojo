@@ -1,0 +1,9 @@
+scoreboard players set @s[rxm=-90,rx=-79] faceRX -90
+scoreboard players set @s[rxm=-79,rx=-56] faceRX -67
+scoreboard players set @s[rxm=-56,rx=-34] faceRX -45
+scoreboard players set @s[rxm=-34,rx=-11] faceRX -22
+scoreboard players set @s[rxm=-11,rx=11] faceRX 0
+scoreboard players set @s[rxm=11,rx=34] faceRX 23
+scoreboard players set @s[rxm=34,rx=56] faceRX 45
+scoreboard players set @s[rxm=56,rx=79] faceRX 68
+scoreboard players set @s[rxm=79,rx=90] faceRX 90
