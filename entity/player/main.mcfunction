@@ -1,5 +1,4 @@
 # Capture Input. Happens by default.
-
 function do:action/nextAction if @s[tag=makeDecision,score_nextAction_min=1]
 
 # ACTIONS
