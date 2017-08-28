@@ -1,5 +1,5 @@
-ACTION SYSTEM BASICS
-********************
+ACTION SYSTEM BASICS (v3)
+*************************
 
 The action system is designed for building attack patterns for real-time action
 combat games in the vein of Dark Souls, Zelda, etc.
