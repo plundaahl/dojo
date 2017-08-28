@@ -2,3 +2,4 @@
 
 function do:main
 function systems:main
+function admin:main

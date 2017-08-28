@@ -1,5 +1,5 @@
-# Run main action system code
-function systems:action/core
+# MAIN ACTION SYSTEM CODE
+function systems:action/core/main
 
-# Run extensions
+# EXTENSIONS
 function systems:action/extensions/makeDecision
