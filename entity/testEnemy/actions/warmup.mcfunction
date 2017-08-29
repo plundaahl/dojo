@@ -12,4 +12,4 @@ scoreboard players tag @s[score_actionTimer_min=1,score_actionTimer=1] remove in
 
 # INTERRUPTABLE CODE
 scoreboard players tag @s[score_hurtLagged_min=1] add interrupted
-scoreboard players set @s[tag=interrupted] nextAction 1
+scoreboard players set @s[tag=interrupted] nextSequence 1

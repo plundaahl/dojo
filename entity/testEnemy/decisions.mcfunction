@@ -1,7 +1,7 @@
 # TEST FOR NEARBY PLAYERS
 function do:query/range/nearestplayer
 
-execute @s[score_nextAction_min=1] ~ ~ ~ say whoops
+execute @s[score_nextSequence_min=1] ~ ~ ~ say whoops
 
 # WAIT IF PLAYER IS TOO FAR AWAY
 scoreboard players set @s actionTimer -60
