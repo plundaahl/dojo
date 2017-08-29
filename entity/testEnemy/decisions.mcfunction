@@ -7,4 +7,4 @@ execute @s[score_nextAction_min=1] ~ ~ ~ say whoops
 scoreboard players set @s actionTimer -60
 
 # ACTIONS
-scoreboard players set @s[score_range=6] comboSelect 10
+scoreboard players set @s[score_range=6] sequenceSelect 10
