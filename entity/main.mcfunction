@@ -4,4 +4,4 @@
 # you wish to import.
 
 function entity:player/main if @s[type=player]
-function entity:testmob/main if @s[tag=typeTestMob]
+function entity:testenemy/main if @s[tag=typeTestEnemy]
