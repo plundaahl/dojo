@@ -1,1 +1,1 @@
-scoreboard players set @s[score_actionTimer=-1] actionTimer 40
+scoreboard players set @s[tag=beginAction] actionTimer 40

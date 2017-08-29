@@ -1,5 +1,5 @@
 # INIT
-scoreboard players set @s[score_actionTimer=-1] actionTimer 40
+scoreboard players set @s[tag=beginAction] actionTimer 40
 
 # PLAY ANIMATION
 function do:query/dir/getMotion

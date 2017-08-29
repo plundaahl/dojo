@@ -1,5 +1,4 @@
 scoreboard players set @s[tag=beginSequence] actionSelect 4
-scoreboard players set @s[tag=beginSequence] actionTimer -1
 
 function entity:testenemy/actions/warmup if @s[score_actionSelect_min=4,score_actionSelect=4]
 function entity:testenemy/actions/attack if @s[score_actionSelect_min=3,score_actionSelect=3]
