@@ -8,7 +8,7 @@ effect @s[tag=makeDecision] minecraft:speed 1 15 true
 
 # Run Action
 function do:effect/move/freeze if @s[score_actionTimer=100,score_actionTimer_min=100]
-scoreboard players set @s[score_actionTimer=100,score_actionTimer_min=100] actionTimer 8
+scoreboard players set @s[score_actionTimer=100,score_actionTimer_min=100] actionTimer 12
 
 # Clean Up
 function do:effect/move/normal if @s[score_actionTimer=4,score_actionTimer_min=1]
