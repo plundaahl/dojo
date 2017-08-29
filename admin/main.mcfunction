@@ -1,1 +1,2 @@
-function admin:scripts/scoreDisplayDebug
+# PLACE SCRIPTS TO RUN HERE
+# function admin:scripts/scoreDisplayDebug

@@ -6,5 +6,3 @@ scoreboard players set @s actionTimer -60
 
 # ACTIONS
 scoreboard players set @s[score_range=6] comboSelect 10
-
-say decisions!
