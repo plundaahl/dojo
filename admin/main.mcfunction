@@ -1,1 +1,1 @@
-# function admin:scripts/scoreDisplayDebug
+function admin:scripts/scoreDisplayDebug

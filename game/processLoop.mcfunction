@@ -10,4 +10,4 @@ function do:variables/clear if @s[tag=makeDecision]
 function entity:main
 
 # Remove any tags leftover from processing.
-scoreboard players tag @e[tag=selected] remove selected
+scoreboard players tag @s[tag=selected] remove selected
