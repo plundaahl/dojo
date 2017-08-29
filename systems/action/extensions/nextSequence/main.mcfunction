@@ -1,2 +1,1 @@
-execute @e[tag=makeDecision,score_nextSequence=-1] ~ ~ ~ function systems:action/extensions/nextSequence/doNextSequence
-execute @e[tag=makeDecision,score_nextSequence_min=1] ~ ~ ~ function systems:action/extensions/nextSequence/doNextSequence
+execute @e[score_sequenceSelect_min=0,score_sequenceSelect=0,score_actionSelect_min=0,score_actionSelect=0,score_actionTimer_min=0,score_actionTimer=0] ~ ~ ~ function systems:action/extensions/nextsequence/targetQueuedEntities
