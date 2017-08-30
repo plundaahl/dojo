@@ -1,0 +1,17 @@
+entitydata @e[score_motionRY_min=169,score_motionRY=180] {Motion:[0d,0.0d,-1.90d]}
+entitydata @e[score_motionRY_min=-180,score_motionRY=-169] {Motion:[0d,0.0d,-1.90d]}
+entitydata @e[score_motionRY_min=-169,score_motionRY=-146] {Motion:[0.727d,0.0d,-1.76d]}
+entitydata @e[score_motionRY_min=-146,score_motionRY=-124] {Motion:[1.34d,0.0d,-1.34d]}
+entitydata @e[score_motionRY_min=-124,score_motionRY=-101] {Motion:[1.76d,0.0d,-0.727d]}
+entitydata @e[score_motionRY_min=-101,score_motionRY=-79] {Motion:[1.90d,0.0d,0d]}
+entitydata @e[score_motionRY_min=-79,score_motionRY=-56] {Motion:[1.76d,0.0d,0.727d]}
+entitydata @e[score_motionRY_min=-56,score_motionRY=-34] {Motion:[1.34d,0.0d,1.34d]}
+entitydata @e[score_motionRY_min=-34,score_motionRY=-11] {Motion:[0.727d,0.0d,1.76d]}
+entitydata @e[score_motionRY_min=-11,score_motionRY=11] {Motion:[0d,0.0d,1.90d]}
+entitydata @e[score_motionRY_min=11,score_motionRY=34] {Motion:[-0.727d,0.0d,1.76d]}
+entitydata @e[score_motionRY_min=34,score_motionRY=56] {Motion:[-1.34d,0.0d,1.34d]}
+entitydata @e[score_motionRY_min=56,score_motionRY=79] {Motion:[-1.76d,0.0d,0.727d]}
+entitydata @e[score_motionRY_min=79,score_motionRY=101] {Motion:[-1.90d,0.0d,0d]}
+entitydata @e[score_motionRY_min=101,score_motionRY=124] {Motion:[-1.76d,0.0d,-0.727d]}
+entitydata @e[score_motionRY_min=124,score_motionRY=146] {Motion:[-1.34d,0.0d,-1.34d]}
+entitydata @e[score_motionRY_min=146,score_motionRY=169] {Motion:[-0.727d,0.0d,-1.76d]}
