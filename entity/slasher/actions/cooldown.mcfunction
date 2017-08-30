@@ -1,5 +1,5 @@
 # INIT
-scoreboard players set @s[tag=beginAction] actionTimer 40
+scoreboard players set @s[tag=beginAction] actionTimer 20
 function do:effect/move/freeze if @s[tag=beginAction]
 
 # CLEANUP

@@ -1,6 +1,6 @@
 scoreboard players set @s[tag=beginSequence] actionSelect 4
 
-function entity:slasher/actions/warmupSlash if @s[score_actionSelect_min=4,score_actionSelect=4]
+function entity:slasher/actions/warmupSlash1 if @s[score_actionSelect_min=4,score_actionSelect=4]
 function entity:slasher/actions/warmup if @s[score_actionSelect_min=4,score_actionSelect=4]
 
 function entity:slasher/actions/attackLunge if @s[score_actionSelect_min=3,score_actionSelect=3]
