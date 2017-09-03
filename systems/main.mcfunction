@@ -5,5 +5,6 @@ function systems:context/mainstart
 
 function systems:action/main
 function systems:processloop/main
+function systems:potionshuffle/main
 
 function systems:context/mainend

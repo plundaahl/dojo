@@ -2,3 +2,4 @@
 function systems:action/initEntity
 function systems:context/initEntity
 function systems:processloop/initEntity
+function systems:potionshuffle/initEntity
