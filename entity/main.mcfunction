@@ -6,3 +6,4 @@
 function entity:player/main if @s[type=player]
 function entity:testenemy/main if @s[tag=typeTestEnemy]
 function entity:slasher/main if @s[tag=typeSlasher]
+function entity:rabidwerwolf/main if @s[tag=typeRabidWerewolf]
